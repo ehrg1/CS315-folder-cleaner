@@ -4,7 +4,7 @@ import time
 from tkinter import Tk
 import os
 from pathlib import Path
-
+print("hi")
 
 
 # We don't want the GUI window of
