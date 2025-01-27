@@ -28,6 +28,7 @@ This project addresses the issue of duplicate file management by proposing two a
 - **Final Report**: .'CS315-report.docx'
 
 ### Deliverables
+you can download all files frome here: https://drive.google.com/file/d/1_459xwnZ_xHqRIatwulEPzsWQVNUrw-S/view?usp=drive_link
 1. **Readme file** - This document.
 2. **Source code files** - Two algorithms implemented in Python.
 3. ** Final report ** - A comprehensive PDF detailing the project.
