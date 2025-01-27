@@ -2,7 +2,7 @@
 
 ### Project Title: Duplicate File Removal Algorithms
 
-### Team Membe‎rs
+### Team Members
 - **Rayan Altawijari** - ID: 431107823
 - **Mohaya Almutairi** - ID: 431107802
 - **Mohammed Alsharekh** - ID: 431108100
@@ -30,7 +30,7 @@ This project addresses the issue of duplicate file management by proposing two a
 ### Deliverables
 1. **Readme file** - This document.
 2. **Source code files** - Two algorithms implemented in Python.
-3. **Final report** - A comprehensive PDF detailing the project.
+3. ** Final report ** - A comprehensive PDF detailing the project.
 
 ### Instructions
 - Ensure Python is installed on your system.
