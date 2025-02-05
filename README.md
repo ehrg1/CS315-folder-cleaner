@@ -3,11 +3,11 @@
 ### Project Title: Duplicate File Removal Algorithms
 
 ### Team Members
-- **Rayan Altawijari** - ID: 431107823
-- **Mohaya Almutairi** - ID: 431107802
-- **Mohammed Alsharekh** - ID: 431108100
-- **Fares Alsuhaibani** - ID: 431107834
-- **Abdullah Alfayez** - ID: 431108148
+- **Rayan Altawijari**
+- **Mohaya Almutairi**
+- **Mohammed Alsharekh**
+- **Fares Alsuhaibani**
+- **Abdullah Alfayez**
 
 ### Project Overview
 This project addresses the issue of duplicate file management by proposing two algorithmic solutions for detecting and removing duplicate files from a specified directory: a naive approach and an optimized approach, both implemented in Python.
