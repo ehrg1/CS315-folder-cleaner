@@ -5,9 +5,9 @@
 ### Team Members  
 - **Rayan Altawijari** **Github:** ([ehrg1](https://github.com/ehrg1))  
 - **Mohaya Almutairi** **Github:** ([GitHub]())  
-- **Mohammed Alsharekh** **Github:** ([GitHub](https://github.com/username3))  
-- **Fares Alsuhaibani** **Github:** ([GitHub](https://github.com/username4))  
-- **Abdullah Alfayez** **Github:** ([GitHub](https://github.com/username5))  
+- **Mohammed Alsharekh** **Github:** ([GitHub]())  
+- **Fares Alsuhaibani** **Github:** ([GitHub]())  
+- **Abdullah Alfayez** **Github:** ([GitHub]())  
 
 ### Project Overview  
 This project addresses the issue of duplicate file management by proposing two algorithmic solutions for detecting and removing duplicate files from a specified directory: a naive approach and an optimized approach, both implemented in Python.  
