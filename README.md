@@ -2,7 +2,7 @@
 
 ### Project Title: Duplicate File Removal Algorithms  
 
-### Team Members  
+### Team Members  h
 - **Rayan Altawijari** **Github:** ([ehrg1](https://github.com/ehrg1))  
 - **Mohaya Almutairi** **Github:** ([GitHub]())  
 - **Mohammed Alsharekh** **Github:** ([GitHub](https://github.com/MK77-a))  
