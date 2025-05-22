@@ -5,7 +5,7 @@
 ### Team Members  
 - **Rayan Altawijari** **Github:** ([ehrg1](https://github.com/ehrg1))  
 - **Mohaya Almutairi** **Github:** ([muhiaAwad](https://github.com/muhiaAwad))  
-- **Mohammed Alsharekh** **Github:** ([GitHub](https://github.com/MK77-a))  
+- **Mohammed Alsharekh** **Github:** ([MK77-a](https://github.com/MK77-a))  
 - **Fares Alsuhaibani** **Github:** ([GitHub]())  
 - **Abdullah Alfayez** **Github:** ([GitHub]())  
 
